@@ -1,0 +1,59 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:darkgrey;
+
+}
+h1{
+    color: rgb(128, 135, 240);
+}
+
+form{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 5px 5px 30px black;
+}
+
+#tempInput{
+    width: 229px;
+    border-radius: 82px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    border: none;
+}
+
+.myLabel:hover{
+    color:cornflowerblue;
+}
+
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 30px;
+    background-color: rgb(128, 135, 240);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+    color: rgb(128, 135, 240);
+}
+
+#result{
+    font-size: 30px;
+    font-weight: bold;
+}
