@@ -13,10 +13,8 @@ A simple and interactive Temperature Converter built using **HTML, CSS, and Java
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](./screenshot.png)
-
-> To add a screenshot, place an image named `screenshot.png` in your repository and the above line will display it automatically.
+## 📸 Preview
+![Temperature Converter](https://github.com/user-attachments/assets/fdca6dee-2e2e-4a1b-9086-98f9413a805e)
 
 ---
 
@@ -32,9 +30,10 @@ JavaScript handles the calculations and updates the result on screen.
 ---
 
 ## 📁 Project Structure
-
+```
 🌡️ Temperature-Converter  
 ├── tc.html      # Main HTML structure  
 ├── tc.css       # Stylesheet  
 ├── tc.js        # Conversion logic  
 └── README.md    # Documentation
+```
