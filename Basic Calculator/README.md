@@ -1,4 +1,3 @@
-
 # Basic Calculator
 
 A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript**.
